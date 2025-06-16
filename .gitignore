@@ -1,0 +1,23 @@
+# Java build files
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE directories
+/.idea/
+/*.iml
+/.vscode/
+/*.log
+
+# Build directories
+/bin/
+/build/
+/out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Others
+*.swp
